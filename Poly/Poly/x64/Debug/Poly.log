@@ -1,0 +1,3 @@
+﻿  Poly.cpp
+C:\Users\Lenovo\Desktop\Poly\Poly\Poly.cpp(335,16): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  Poly.vcxproj -> C:\Users\Lenovo\Desktop\Poly\Poly\x64\Debug\Poly.exe
